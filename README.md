@@ -2,7 +2,7 @@
 
 Final-year Data Science undergraduate at SLIIT, Sri Lanka.
 I build models that explain *why* something is happening and predict *what happens next* —
-then make the answer impossible to ignore.
+then make the answer impossible to ignore. also 
 
 ---
 
